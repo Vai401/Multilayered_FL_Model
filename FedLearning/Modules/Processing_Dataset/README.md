@@ -7,10 +7,10 @@
 - Format: image files
 
 
-# More Detailed Information for MNIST Dataset
+### More Detailed Information for MNIST Dataset
 The MNIST dataset from Kaggle is a popular benchmark for handwritten digit recognition. For federated learning, you can use the MNIST dataset to train multiple models on separate devices, and then combine their updates to create a centralized model. The dataset consists of 60,000 training images (28x28 pixels) and 10,000 testing images, with classes 0-9. To use MNIST with federated learning, you'll need to preprocess the data, split it among devices, and implement a federated learning algorithm.
 
-# Additional Resources
+### Additional Resources
 Dataset Links:
 
 1. Original MNIST Dataset: (https://yann.lecun.com/exdb/mnist/)
